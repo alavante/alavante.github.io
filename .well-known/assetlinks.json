@@ -1,10 +1,13 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "appinventor.ai_tdolarea.ChifleVirtual",
       "sha256_cert_fingerprints": [
+        "B0:5A:CE:FB:1D:DD:18:C6:FE:21:AA:8B:AD:0D:4F:D8:3C:DE:C4:15:FA:A1:B9:4F:3B:34:20:5A:E1:13:88:18",
         "3C:8E:28:29:79:58:FD:A9:82:61:DF:7F:9C:47:2F:92:B1:C0:94:DA:98:DA:FF:8C:BC:35:17:C9:93:D3:FB:4F"
       ]
     }
